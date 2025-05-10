@@ -1,16 +1,16 @@
 ###
 
-<h1 align="center">Привет <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Hello" width="40" /> Меня зовут Бакдөөлөт!</h1>
-
-###
-
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3ODkyNDYsIm5iZiI6MTc0Njc4ODk0NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA5VDExMDkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxNWViNDE5ZDlkZjNjOGY4MzM3MjcwYzdiMmY3MjIwOWQ1ZjFlZmRlZTUzZjhhNmRiYzQ3MDg3MGMwM2FhNmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9dxCiAGMOvMtPPN4mEpnl2ZZgsElMpjbV82nE9Gpvg0" alt="Saluting Face" width="25"/> Обо мне</h3>
+<h1 align="center">Привет <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Hello" width="40" /> Меня зовут Бакдөөлөт!</h1>
+
+###
+
+<h3 align="left">👩‍💻 Обо мне</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3ODkyNDYsIm5iZiI6MTc0Njc4ODk0NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA5VDExMDkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE0YzM4MWRkNzM5ZTcyOWNmMDkyNjI5NjY0NTIzNzU0YjMzODE1ZjBkMTVlYmUzMzQzZWY4MjI5Mjg3MTMyZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z1OoX0Y0D_2TrC7RAHjGWMq8oYqaaeUe3NsQT1d4gIQ" height="30" alt="stats"/>Моя статистика и социальные сети :</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY3ODkyNDYsIm5iZiI6MTc0Njc4ODk0NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA5VDExMDkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE0YzM4MWRkNzM5ZTcyOWNmMDkyNjI5NjY0NTIzNzU0YjMzODE1ZjBkMTVlYmUzMzQzZWY4MjI5Mjg3MTMyZTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.z1OoX0Y0D_2TrC7RAHjGWMq8oYqaaeUe3NsQT1d4gIQ" height="30" alt="stats"/>Моя статистика:</h3>
 
 ###
 
@@ -56,16 +56,20 @@
 
 ###
 
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35" alt="social"/>Мои социальные сети:</h3>
+
+###
+
 <div align="center">
   <a href="https://t.me/tcybkv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />                                          
   </a>
-  <a href="https://www.linkedin.com/in/%D0%B1%D0%B0%D0%BA%D0%B4%D3%A9%D3%A9%D0%BB%D3%A9%D1%82-%D1%82%D0%BE%D0%B9%D1%87%D1%83%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-a5082635b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://www.instagram.com/tcybkvv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo"  />
   <a href="https://www.facebook.com/profile.php?id=61550358817667" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/%D0%B1%D0%B0%D0%BA%D0%B4%D3%A9%D3%A9%D0%BB%D3%A9%D1%82-%D1%82%D0%BE%D0%B9%D1%87%D1%83%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2-a5082635b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     
   </a>
 </div>
